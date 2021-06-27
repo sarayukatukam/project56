@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: chartreuse;
+}
+
+p{
+    background-color: aqua;
+    width: 350;
+}
+.image-section{
+    display: flex;
+    justify-content: center;
+}
+.section-style{
+    margin-right: 25px;
+    margin-left: 25px;
+   
+}
+img{
+    height: 200px;
+    width: 200px;
+}
